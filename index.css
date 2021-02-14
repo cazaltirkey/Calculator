@@ -46,7 +46,9 @@ button {
 }
 
 .equal-sign {
-    height: 98%;
+    height: 100%;
+    grid-area: 4 / 4 / span 3 / span 1;
+     
 }
 
 .calculator-keys {
